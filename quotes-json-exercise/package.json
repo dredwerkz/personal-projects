@@ -1,0 +1,24 @@
+{
+  "name": "workshop-crud-functionality",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test:ticket1": "vitest run __tests__/ticket1.test.js",
+    "test:ticket2": "vitest run __tests__/ticket2.test.js",
+    "test:ticket3": "vitest run __tests__/ticket3.test.js",
+    "test:ticket4": "vitest run __tests__/ticket4.test.js",
+    "test:ticket5": "vitest run __tests__/ticket5.test.js",
+    "test:ticket6": "vitest run __tests__/ticket6.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.34.1"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
